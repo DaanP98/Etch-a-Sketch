@@ -1,0 +1,23 @@
+#containerGrid {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.square {
+  /*width: 30px;*/
+  /*height: 30px;*/
+  /*outline: 1px solid red;*/
+  opacity: 0.1;
+}
+
+/*.square:hover {*/
+/*  background-color: red;*/
+/*}*/
+
+.button {
+  background-color: red;
+  color: white;
+  border-color: red;
+  margin: 10px;
+}
